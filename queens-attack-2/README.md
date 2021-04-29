@@ -1,10 +1,12 @@
 # Queen's Attack 2
 
 Challenge at https://www.hackerrank.com/challenges/queens-attack-2/problem
-Time to solve (metric to improve on in the future!): 1hr -> 30 minutes analyzing, 20 minutes writing and debugging, 10 minutes looking at others' solutions and improving mine.
-Date solved: 4/28/2021
 
-Notes:
+**Time to solve (metric to improve on in the future!):** 1hr -> 30 minutes analyzing, 20 minutes writing and debugging, 10 minutes looking at others' solutions and improving mine.
+
+**Date solved:** 4/28/2021
+
+**Notes:**
 
 - I liked this problem because it was chess-y in nature!
 - At first I was tempted to create a 2D array, but I found an easy solution using vector? math. Analyzing the board for 20 minutes paid off.
