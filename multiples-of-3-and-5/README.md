@@ -6,6 +6,8 @@ Challenge at https://www.hackerrank.com/contests/projecteuler/challenges/euler00
 
 **Date solved:** 4/29/2021
 
+**Score:** 100
+
 **Notes:**
 
 - This looked easy at first and I didn't think to look for a mathematical formula on my first attempt. This was a mistake. I should always research before attempting the problem!!

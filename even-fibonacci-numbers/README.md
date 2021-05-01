@@ -6,6 +6,8 @@ Challenge at https://www.hackerrank.com/contests/projecteuler/challenges/euler00
 
 **Date solved:** 4/30/2021
 
+**Score:** 100
+
 **Analysis:**
 
 - Fibonacci numbers: 1,2,3,5,8,13,21,34...

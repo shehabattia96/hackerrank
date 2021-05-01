@@ -6,6 +6,8 @@ Challenge at https://www.hackerrank.com/challenges/queens-attack-2/problem
 
 **Date solved:** 4/28/2021
 
+**Score:** 100
+
 **Notes:**
 
 - I liked this problem because it was chess-y in nature!
