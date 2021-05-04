@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 mkdir build
 mkdir ./testcases/result
 mkdir ./testcases/debugLog
