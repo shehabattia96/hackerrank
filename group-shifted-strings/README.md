@@ -1,7 +1,5 @@
 # Group Shifted Strings
 
-Challenge at https://www.hackerrank.com/challenges/queens-attack-2/problem
-
 **Time to solve (metric to improve on in the future!):** 1hr -> misread the question, then realized it's talking about ascii distance between successive letters in the words. 
 
 **Date solved:** 6/7/2023
