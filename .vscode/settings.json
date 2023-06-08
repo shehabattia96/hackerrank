@@ -4,6 +4,9 @@
         "vector": "cpp",
         "xstring": "cpp",
         "ostream": "cpp",
-        "cassert": "cpp"
+        "cassert": "cpp",
+        "__hash_table": "cpp",
+        "unordered_map": "cpp",
+        "array": "cpp"
     }
 }
